@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Purjeet979/CodeLeet/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Purjeet979/CodeLeet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1980-find-unique-binary-string](https://github.com/Purjeet979/CodeLeet/tree/master/1980-find-unique-binary-string) |
 | [3731-find-missing-elements](https://github.com/Purjeet979/CodeLeet/tree/master/3731-find-missing-elements) |
 ## Trie
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/Purjeet979/CodeLeet/tree/master/1980-find-unique-binary-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Purjeet979/CodeLeet/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
