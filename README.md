@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Purjeet979/CodeLeet/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Purjeet979/CodeLeet/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Purjeet979/CodeLeet/tree/master/0013-roman-to-integer) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Purjeet979/CodeLeet/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Purjeet979/CodeLeet/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Purjeet979/CodeLeet/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
