@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Purjeet979/CodeLeet/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Purjeet979/CodeLeet/tree/master/0013-roman-to-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Purjeet979/CodeLeet/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Purjeet979/CodeLeet/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Purjeet979/CodeLeet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Purjeet979/CodeLeet/tree/master/0014-longest-common-prefix) |
 | [1980-find-unique-binary-string](https://github.com/Purjeet979/CodeLeet/tree/master/1980-find-unique-binary-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Purjeet979/CodeLeet/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/Purjeet979/CodeLeet/tree/master/1980-find-unique-binary-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Purjeet979/CodeLeet/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Purjeet979/CodeLeet/tree/master/3345-smallest-divisible-digit-product-i) |
+## Greedy
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Purjeet979/CodeLeet/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Purjeet979/CodeLeet/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
