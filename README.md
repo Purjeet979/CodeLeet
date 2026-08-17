@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Purjeet979/CodeLeet/tree/master/0013-roman-to-integer) |
 | [1140-stone-game-ii](https://github.com/Purjeet979/CodeLeet/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Purjeet979/CodeLeet/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Purjeet979/CodeLeet/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Purjeet979/CodeLeet/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Purjeet979/CodeLeet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Purjeet979/CodeLeet/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Purjeet979/CodeLeet/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Purjeet979/CodeLeet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1140-stone-game-ii](https://github.com/Purjeet979/CodeLeet/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/Purjeet979/CodeLeet/tree/master/1563-stone-game-v) |
 | [1980-find-unique-binary-string](https://github.com/Purjeet979/CodeLeet/tree/master/1980-find-unique-binary-string) |
 | [2029-stone-game-ix](https://github.com/Purjeet979/CodeLeet/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Purjeet979/CodeLeet/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Purjeet979/CodeLeet/tree/master/0010-regular-expression-matching) |
 | [1140-stone-game-ii](https://github.com/Purjeet979/CodeLeet/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Purjeet979/CodeLeet/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Purjeet979/CodeLeet/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Purjeet979/CodeLeet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Purjeet979/CodeLeet/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Purjeet979/CodeLeet/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Purjeet979/CodeLeet/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Purjeet979/CodeLeet/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
