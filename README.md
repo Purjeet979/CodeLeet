@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Purjeet979/CodeLeet/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Purjeet979/CodeLeet/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Purjeet979/CodeLeet/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Purjeet979/CodeLeet/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Purjeet979/CodeLeet/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Purjeet979/CodeLeet/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Purjeet979/CodeLeet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Purjeet979/CodeLeet/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Purjeet979/CodeLeet/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Purjeet979/CodeLeet/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Purjeet979/CodeLeet/tree/master/1872-stone-game-viii) |
 | [1980-find-unique-binary-string](https://github.com/Purjeet979/CodeLeet/tree/master/1980-find-unique-binary-string) |
 | [2029-stone-game-ix](https://github.com/Purjeet979/CodeLeet/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Purjeet979/CodeLeet/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -132,23 +134,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Purjeet979/CodeLeet/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Purjeet979/CodeLeet/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Purjeet979/CodeLeet/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Purjeet979/CodeLeet/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Purjeet979/CodeLeet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Purjeet979/CodeLeet/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Purjeet979/CodeLeet/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Purjeet979/CodeLeet/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Purjeet979/CodeLeet/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Purjeet979/CodeLeet/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Purjeet979/CodeLeet/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Purjeet979/CodeLeet/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Purjeet979/CodeLeet/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Purjeet979/CodeLeet/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Purjeet979/CodeLeet/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Purjeet979/CodeLeet/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Purjeet979/CodeLeet/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
@@ -156,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Purjeet979/CodeLeet/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Purjeet979/CodeLeet/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Purjeet979/CodeLeet/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Purjeet979/CodeLeet/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
