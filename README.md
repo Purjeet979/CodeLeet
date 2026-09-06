@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Purjeet979/CodeLeet/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Purjeet979/CodeLeet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Purjeet979/CodeLeet/tree/master/0014-longest-common-prefix) |
+| [0115-distinct-subsequences](https://github.com/Purjeet979/CodeLeet/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/Purjeet979/CodeLeet/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/Purjeet979/CodeLeet/tree/master/1980-find-unique-binary-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Purjeet979/CodeLeet/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Purjeet979/CodeLeet/tree/master/0010-regular-expression-matching) |
+| [0115-distinct-subsequences](https://github.com/Purjeet979/CodeLeet/tree/master/0115-distinct-subsequences) |
 | [1140-stone-game-ii](https://github.com/Purjeet979/CodeLeet/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Purjeet979/CodeLeet/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Purjeet979/CodeLeet/tree/master/1563-stone-game-v) |
