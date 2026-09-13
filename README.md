@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Purjeet979/CodeLeet/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Purjeet979/CodeLeet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0835-image-overlap](https://github.com/Purjeet979/CodeLeet/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/Purjeet979/CodeLeet/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Purjeet979/CodeLeet/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Purjeet979/CodeLeet/tree/master/1563-stone-game-v) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Purjeet979/CodeLeet/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Purjeet979/CodeLeet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
