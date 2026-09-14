@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Purjeet979/CodeLeet/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Purjeet979/CodeLeet/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Purjeet979/CodeLeet/tree/master/0013-roman-to-integer) |
+| [0836-rectangle-overlap](https://github.com/Purjeet979/CodeLeet/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/Purjeet979/CodeLeet/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Purjeet979/CodeLeet/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Purjeet979/CodeLeet/tree/master/1563-stone-game-v) |
@@ -265,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Purjeet979/CodeLeet/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Purjeet979/CodeLeet/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
