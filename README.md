@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Purjeet979/CodeLeet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Purjeet979/CodeLeet/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/Purjeet979/CodeLeet/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/Purjeet979/CodeLeet/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Purjeet979/CodeLeet/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Purjeet979/CodeLeet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Purjeet979/CodeLeet/tree/master/1927-sum-game) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Purjeet979/CodeLeet/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/Purjeet979/CodeLeet/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Purjeet979/CodeLeet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Purjeet979/CodeLeet/tree/master/1927-sum-game) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Purjeet979/CodeLeet/tree/master/0010-regular-expression-matching) |
 | [0115-distinct-subsequences](https://github.com/Purjeet979/CodeLeet/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/Purjeet979/CodeLeet/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Purjeet979/CodeLeet/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Purjeet979/CodeLeet/tree/master/1140-stone-game-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Purjeet979/CodeLeet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -291,4 +294,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Purjeet979/CodeLeet/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Purjeet979/CodeLeet/tree/master/1401-circle-and-rectangle-overlapping) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Purjeet979/CodeLeet/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Purjeet979/CodeLeet/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
