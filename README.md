@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Purjeet979/CodeLeet/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/Purjeet979/CodeLeet/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/Purjeet979/CodeLeet/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Purjeet979/CodeLeet/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Purjeet979/CodeLeet/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Purjeet979/CodeLeet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Purjeet979/CodeLeet/tree/master/1927-sum-game) |
@@ -298,8 +299,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Purjeet979/CodeLeet/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Purjeet979/CodeLeet/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Purjeet979/CodeLeet/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Purjeet979/CodeLeet/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
