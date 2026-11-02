@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Purjeet979/CodeLeet/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Purjeet979/CodeLeet/tree/master/0013-roman-to-integer) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Purjeet979/CodeLeet/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Purjeet979/CodeLeet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Purjeet979/CodeLeet/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/Purjeet979/CodeLeet/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Purjeet979/CodeLeet/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Purjeet979/CodeLeet/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Purjeet979/CodeLeet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Purjeet979/CodeLeet/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Purjeet979/CodeLeet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/Purjeet979/CodeLeet/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/Purjeet979/CodeLeet/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Purjeet979/CodeLeet/tree/master/1386-cinema-seat-allocation) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Purjeet979/CodeLeet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Purjeet979/CodeLeet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Purjeet979/CodeLeet/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Purjeet979/CodeLeet/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
