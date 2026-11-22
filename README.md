@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Purjeet979/CodeLeet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Purjeet979/CodeLeet/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/Purjeet979/CodeLeet/tree/master/1980-find-unique-binary-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Purjeet979/CodeLeet/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Purjeet979/CodeLeet/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2409-count-days-spent-together](https://github.com/Purjeet979/CodeLeet/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Purjeet979/CodeLeet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
